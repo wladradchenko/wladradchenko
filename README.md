@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QNhoTVTSLmZIqwkgJU/giphy.gif" width="50px" height="50px">
 </p>
-<h3 align="center">Привет гость!</h3>
+<h3 align="center">Привет наблюдатель!</h3>
 <br>
 
 __Немного обо мне:__
