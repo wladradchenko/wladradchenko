@@ -1,4 +1,4 @@
-### Привет наблюдатель! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<h3 align="center">Привет наблюдатель! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h3>
 
 __Немного обо мне:__
 
