@@ -9,6 +9,8 @@ __Немного обо мне:__
 - Говорю на языках Английский... Python, JS, Golang. 
 - Забыл языки C#, Matlab... Итальянский. 
 
+P.S. Много обом не на (личном сайте)[https:/wladradchenko.ru].
+
 __Интересная статистика:__
 
 Профиль GitHub в настоящее время посещают <img src="https://visitor-badge.glitch.me/badge?page_id=wladradchenko" alt="Visitor Badge" />.
