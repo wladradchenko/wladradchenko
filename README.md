@@ -9,7 +9,7 @@ __Немного обо мне:__
 - Говорю на языках Английский... Python, JS, Golang. 
 - Забыл языки C#, Matlab... Итальянский. 
 
-P.S. Много обом не на (личном сайте)[https:/wladradchenko.ru].
+P.S. Много обо мне на <a href="https://wladradchenko.ru">личном сайте</a>.
 
 __Интересная статистика:__
 
@@ -23,7 +23,7 @@ __Интересная статистика:__
 </div>
 
 <br>
-<p>Спасибо, что заглянули в мой профиль, и не стесняйтесь связаться со мной на [TenChat] (https://tenchat.ru/wladradchenko) или по электропочте i@wladradchenko.ru.</p>
+<p>Спасибо, что заглянули в мой профиль, и не стесняйтесь связаться со мной на <a href="https://tenchat.ru/wladradchenko">TenChat</a> или по электропочте i@wladradchenko.ru.</p>
 
 <!--
 **wladradchenko/wladradchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
