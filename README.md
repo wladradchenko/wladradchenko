@@ -17,13 +17,15 @@ __Интересная статистика:__
 
 Наиболее часто используемый язык на GitHub:
 
-<div align="center" style="columns:2;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladradchenko&layout=compact&theme=transparent&langs_count=10" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=wladradchenko&show_icons=true&theme=transparent" />
+<div align="center" style="columns:3;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladradchenko&layout=compact&theme=transparent&langs_count=10&hide_border=true" />
+  <img width="60" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=wladradchenko&show_icons=true&theme=transparent&hide_border=true" />
 </div>
 
 <br>
 <p>Спасибо, что заглянули в мой профиль, и не стесняйтесь связаться со мной на <a href="https://tenchat.ru/wladradchenko">TenChat</a> или по электропочте <a href="mailto:i@wladradchenko.ru">i@wladradchenko.ru</a>.</p>
+
 
 <!--
 **wladradchenko/wladradchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
