@@ -23,7 +23,7 @@ __Интересная статистика:__
 </div>
 
 <br>
-<p>Спасибо, что заглянули в мой профиль, и не стесняйтесь связаться со мной на <a href="https://tenchat.ru/wladradchenko">TenChat</a> или по электропочте i@wladradchenko.ru.</p>
+<p>Спасибо, что заглянули в мой профиль, и не стесняйтесь связаться со мной на <a href="https://tenchat.ru/wladradchenko">TenChat</a> или по электропочте <a href="mailto:i@wladradchenko.ru">i@wladradchenko.ru</a>.</p>
 
 <!--
 **wladradchenko/wladradchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
