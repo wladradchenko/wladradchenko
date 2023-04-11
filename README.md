@@ -1,4 +1,8 @@
-<h3 align="center">Привет наблюдатель! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/QNhoTVTSLmZIqwkgJU/giphy.gif" width="50px" height="50px">
+</p>
+<h3 align="center">Привет наблюдатель!</h3>
+<br>
 
 __Немного обо мне:__
 
