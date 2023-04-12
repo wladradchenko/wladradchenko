@@ -24,7 +24,7 @@ __Интересная статистика:__
 Наиболее часто используемый язык на GitHub:
 
 <div align="center" style="columns:3;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladradchenko&layout=compact&theme=transparent&langs_count=10&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladradchenko&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=css,html,glsl,shaderlab,jupyter%20notebook,less,mako" />
   <img width="60" />
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=wladradchenko&show_icons=true&theme=transparent&hide_border=true" />
 </div>
