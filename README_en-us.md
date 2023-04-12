@@ -1,3 +1,5 @@
+<a>En</a> / <a href="https://github.com/wladradchenko/wladradchenko/edit/main/README.md">Ru</a>
+
 <p align="center">
   <img src="https://media.giphy.com/media/QNhoTVTSLmZIqwkgJU/giphy.gif" width="50px" height="50px">
 </p>
