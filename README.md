@@ -19,7 +19,7 @@ P.S. Много обо мне на <a href="https://wladradchenko.ru">лично
 
 __Интересная статистика:__
 
-Профиль GitHub в настоящее время посещают <img src="https://visitor-badge.glitch.me/badge?page_id=wladradchenko" alt="Visitor Badge" />.
+Профиль GitHub в настоящее время посещают <img src="https://komarev.com/ghpvc/?username=wladradchenko&label=Profile%20views&color=blue&style=flat" alt="Visitor Badge" />.
 
 Наиболее часто используемый язык на GitHub:
 
