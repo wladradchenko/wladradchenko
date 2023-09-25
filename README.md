@@ -1,4 +1,4 @@
-<a>En</a> / <a href="https://github.com/wladradchenko/wladradchenko/blob/main/README.md">Ru</a>
+<a>En</a> / <a href="https://github.com/wladradchenko/wladradchenko/blob/main/README_ru.md">Ru</a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QNhoTVTSLmZIqwkgJU/giphy.gif" width="50px" height="50px">
