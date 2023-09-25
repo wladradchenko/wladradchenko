@@ -15,7 +15,7 @@ __Short information about me:__
 - My technical skills include Python, JavaScript, and Golang.
 - I also have experience with C#, Matlab, and Italian, although I am primarily focused on the languages listed above.
 
-P.S. Detailed information about me on <a href="https://wladradchenko.ru">web page</a>.
+P.S. Detailed information about me on <a href="https://wladradchenko.ru?en">web page</a>.
 
 __Интересная статистика:__
 
