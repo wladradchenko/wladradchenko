@@ -3,19 +3,19 @@
 <p align="center">
   <img src="https://media.giphy.com/media/QNhoTVTSLmZIqwkgJU/giphy.gif" width="50px" height="50px">
 </p>
-<h3 align="center">Hello visitor!</h3>
+<h3 align="center">Hello, Visitor!</h3>
 <br>
 
-__Short information about me:__
+__Here's a bit about me:__
 
-- As of ©2023, I am primarily focused on developing software for Linux and web services.
-- I specialize in designing convolutional neural networks and machine learning algorithms, drawing inspiration from the latest scientific articles.
-- Working with very large data sets is my forte, and I have extensive experience working with Clickhouse, PostgreSQL, and MySQL.
-- In addition, I create video, photo, and audio content using generative neural networks.
+- As of ©2023, my primary focus is developing software for Linux and web services. 
+- I specialize in designing convolutional neural networks and machine learning algorithms, drawing inspiration from the latest scientific articles. Also I have scientific articles about neural networks, see [ORCID](https://orcid.org/0000-0001-5953-9789)
+- Working with very large datasets is my forte, and I have extensive experience with ClickHouse, PostgreSQL, and MySQL and traffic at the real time. 
+- Additionally, I create video, photo, and audio content using generative neural networks.
 - My technical skills include Python, JavaScript, and Golang.
 - I also have experience with C#, Matlab, and Italian, although I am primarily focused on the languages listed above.
 
-P.S. Detailed information about me on <a href="https://wladradchenko.ru/?en">web page</a>.
+P.S. For more detailed information about me, please visit <a href="https://wladradchenko.ru/?en">webpage</a>.
 
 __Statistic:__
 
@@ -30,7 +30,7 @@ Most used language on GitHub:
 </div>
 
 <br>
-<p>Thank you for visiting GitHub profile and feel free to contact me at <a href="https://t.me/@wladradchenko">Telegram</a> or email <a href="mailto:i@wladradchenko.ru">i@wladradchenko.ru</a>.</p>
+<p>Thank you for visiting my GitHub profile! Feel free to contact me via <a href="https://t.me/@wladradchenko">Telegram</a> or email at <a href="mailto:i@wladradchenko.ru">i@wladradchenko.ru</a>.</p>
 
 
 <!--
