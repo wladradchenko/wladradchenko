@@ -17,7 +17,7 @@ __Short information about me:__
 
 P.S. Detailed information about me on <a href="https://wladradchenko.ru/?en">web page</a>.
 
-__Интересная статистика:__
+__Statistic:__
 
 GitHub profile currently visited <img src="https://komarev.com/ghpvc/?username=wladradchenko&label=Profile%20views&color=blue&style=flat" alt="Visitor Badge" />.
 
