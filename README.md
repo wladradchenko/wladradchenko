@@ -8,11 +8,11 @@
 
 __Here's a bit about me:__
 
-- As of ©2023, my primary focus is developing software for Linux and web services. 
+- As of ©2023, my primary focus is developing software for Linux, neural networks and web services. 
 - I specialize in designing convolutional neural networks and machine learning algorithms, drawing inspiration from the latest scientific articles. Also I have scientific articles about neural networks, see [ORCID](https://orcid.org/0000-0001-5953-9789)
 - Working with very large datasets is my forte, and I have extensive experience with ClickHouse, PostgreSQL, and MySQL and traffic at the real time. 
-- Additionally, I create video, photo, and audio content using generative neural networks.
-- My technical skills include Python, JavaScript, and Golang.
+- Additionally, I create video, photo, and audio content with the help of generative neural networks and write articles explaining the workings of neural networks.
+- My technical skills include Python, JavaScript, Golang and React Native.
 - I also have experience with C#, Matlab, and Italian, although I am primarily focused on the languages listed above.
 
 P.S. For more detailed information about me, please visit <a href="https://wladradchenko.ru/?en">webpage</a>.
