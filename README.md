@@ -30,7 +30,7 @@ Most used language on GitHub:
 </div>
 
 <br>
-<p>Thank you for visiting my GitHub profile! Feel free to contact me via <a href="https://t.me/@wladradchenko">Telegram</a> or email at <a href="mailto:i@wladradchenko.ru">i@wladradchenko.ru</a>.</p>
+<p>Thank you for visiting my GitHub profile! Feel free to contact me via <a href="https://t.me/wladradchenko">Telegram</a> or email at <a href="mailto:i@wladradchenko.ru">i@wladradchenko.ru</a>.</p>
 
 
 <!--
