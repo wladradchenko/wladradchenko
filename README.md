@@ -9,6 +9,10 @@
   </a>
 </p>
 
+## Stay Connected
+
+Follow me on **GitHub** if you want to keep up with of new projects, see the neural network tools I'm adding to [favorites](https://github.com/wladradchenko?tab=stars) for working with video, audio, images, and text, or meet new people who have an interest in generative neural networks and web development.
+
 ## Here's a bit about me:
 
 On current year ©2024, I'm on a mission to bring neural networks to life within real-world applications, especially those that start from zero and scale to thousands of users. My work goes beyond code—I'm building intelligent systems from the ground up, covering everything from backend and frontend development to database design, server setup, and seamless web integration.
@@ -18,6 +22,8 @@ My experience spans over 50 neural networks working in harmony within a single w
 Alongside development, I write a text blog on a few languages where I break down how neural networks really work and dive into startup culture—sharing insights and learning as I go. Discover more about the apps I’ve created on [YouTube](https://www.youtube.com/@wladradchenko). I’m always hands-on and open to discussing anything related to AI and tech with my readers.
 
 In addition to Python, JavaScript, Golang, and React Native, my toolkit includes a deep knowledge of the internet’s inner workings (including DPI and traffic filtering), which helps me keep applications secure and fast. I’m all about clean, efficient code and building software that solves real problems without over-complication.
+
+
 
 ## Stats:
 
