@@ -1,12 +1,20 @@
 <a href="https://github.com/wladradchenko/wladradchenko/blob/main/README.md">En</a> / <a>Ru</a>  / <a href="https://github.com/wladradchenko/wladradchenko/blob/main/README_zn.md">Zn</a>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QNhoTVTSLmZIqwkgJU/giphy.gif" width="50px" height="50px">
+  <img src="https://media.giphy.com/media/QNhoTVTSLmZIqwkgJU/giphy.gif" width="90px" height="90px">
 </p>
-<h3 align="center">Привет наблюдатель!</h3>
-<br>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=50&color=FFFFFF&size=35&center=true&vCenter=true&random=false&width=435&lines=Привет...;Я...+Владислав+Радченко;Вот+и+познакомились!" alt="Hello Visitor" />
+  </a>
+</p>
 
-__Немного обо мне:__
+## На связи
+
+Подпишитесь на меня в **GitHub**, если хотите быть в курсе новых проектов, посмотреть инструменты нейронных сетей, которые я добавляю в [избранное](https://github.com/wladradchenko?tab=stars) для работы с видео, аудио, изображениями и текстом, или познакомиться с новыми людьми, интересующимися генеративными нейронными сетями и веб-разработкой.
+
+
+## Немного обо мне
 
 На ©2024 год я занимаюсь нейронными сетями и внедряю их в реальный мир. Да, именно те штуки, которые когда-то казались фантастикой, а теперь начинают внедряться в продукты. Моя работа — это не только код, это целая экосистема: от бэкенда до фронтенда, от проектирования баз данных до настройки серверов. В общем, все, чтобы сделать ваши идеи реальными.
 
@@ -18,7 +26,7 @@ __Немного обо мне:__
 
 P.S. Много обо мне на <a href="https://wladradchenko.ru">личном сайте</a>.
 
-__Интересная статистика:__
+## Интересная статистика
 
 Наиболее часто используемый язык на GitHub:
 
@@ -28,7 +36,7 @@ __Интересная статистика:__
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=wladradchenko&show_icons=true&theme=transparent&hide_border=true" />
 </div>
 
-__Как связаться?__
+## Как связаться?
 
 <br>
 
@@ -37,6 +45,8 @@ __Как связаться?__
    <a href="https://boosty.to/wunjo" target="_blank"><img src="https://img.shields.io/badge/boosty-%23ff7f50.svg?style=for-the-badge&logo=donut&logoColor=white" alt="Boosty Donut"/></a>
    <a href="https://www.youtube.com/wladradchenko" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
    <a href="https://t.me/wladblog" target="_blank"><img src="https://img.shields.io/badge/telegram-%23184ccc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://habr.com/ru/users/Wladradchenko/" target="_blank"><img src="https://img.shields.io/badge/habr-2b2b2b?style=for-the-badge&logo=habe&logoColor=white" alt="Habr"/></a>
+  <a href="https://tenchat.ru/wladradchenko" target="_blank"><img src="https://img.shields.io/badge/tenchat-ff3030?style=for-the-badge&logo=habe&logoColor=white" alt="Tenchat"/></a>
   </div>
 
 <br>
