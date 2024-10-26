@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=50&color=FFFFFF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hello,+Visitor!;I'm+Wladislav+Radchenko" alt="Hello Visitor" />
   </a>
 </p>
-<br>
 
 ## Here's a bit about me:
 
